@@ -6,12 +6,12 @@ function asset_url()
 }
 function logo_url()
 {
-	return base_url().'assets/images/logo.png';
+	return base_url().'assets/images/logo1.png';
 }
 
 function favicon_url()
 {
-	return base_url().'assets/images/favicon.ico';
+	return base_url().'assets/images/favicon.png';
 }
 
 function project_name()
